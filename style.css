@@ -1,0 +1,13 @@
+body{
+    background-image:url("pastel-background-goo-700x394.jpg") ;
+    background-size: cover;
+}
+#title{
+font-size: xx-large;
+color:#e0096e;
+box-shadow: 5px 5px 10px purple;
+}
+canvas{
+border: 5px purple solid;
+box-shadow: 10px 10px 20px white;     
+}
